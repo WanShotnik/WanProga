@@ -84,7 +84,7 @@ body {
     width: 90%;
     height: auto;
     border: solid 2px;
-    background-color: #fff;
+    background-color: rgb(255, 255, 255);
 }
 
 .post-content{
@@ -94,6 +94,7 @@ body {
     flex-direction: row-reverse;
     justify-content: center;
     flex-wrap: wrap-reverse;
+    background-color: rgb(177, 175, 175);
 }
 .post{
     padding: 20px;
@@ -102,7 +103,9 @@ body {
     height: auto;
     margin: 30px auto;
     border: solid 2px;
+    background-color: #fff;
 }
+
 .post img{
     margin: 20px auto;
     
